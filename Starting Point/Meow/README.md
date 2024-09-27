@@ -32,7 +32,7 @@ What is the name of the most common tool for finding open ports on a target?
 nmap
 ```
 
-![](nmap.png)
+![](Meow/nmap.png)
 
 What service do we identify on port 23/tcp during our scans?
 
