@@ -24,7 +24,7 @@ What is the command we can use to send an ICMP echo request to test our connecti
 ping
 ```
 
-![](nmap.png)
+![](Fawn/nmap.png)
 
 From your scans, what version is FTP running on the target?
 
