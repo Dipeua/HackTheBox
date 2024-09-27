@@ -6,7 +6,7 @@ What does the 3-letter acronym SMB stand for?
 Server Message Block
 ```
 
-![](nmap.png)
+![](Dancing/nmap.png)
 
 What port does SMB use to operate at?
 
