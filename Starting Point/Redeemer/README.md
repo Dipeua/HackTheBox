@@ -1,6 +1,6 @@
-![](Redeemer/banner.png)
+![](banner.png)
 
-![](Redeemer/nmap.png)
+![](nmap.png)
 
 Which TCP port is open on the machine?
 

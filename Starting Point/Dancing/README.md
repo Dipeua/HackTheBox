@@ -1,4 +1,4 @@
-![](Dancing/banner.png)
+![](banner.png)
 
 What does the 3-letter acronym SMB stand for?
 
@@ -6,7 +6,7 @@ What does the 3-letter acronym SMB stand for?
 Server Message Block
 ```
 
-![](Dancing/nmap.png)
+![](nmap.png)
 
 What port does SMB use to operate at?
 

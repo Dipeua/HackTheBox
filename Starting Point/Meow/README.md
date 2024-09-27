@@ -1,4 +1,4 @@
-![](Meow/banner.png)
+![](banner.png)
 
 What does the acronym VM stand for?
 
@@ -32,7 +32,7 @@ What is the name of the most common tool for finding open ports on a target?
 nmap
 ```
 
-![](Meow/nmap.png)
+![](nmap.png)
 
 What service do we identify on port 23/tcp during our scans?
 

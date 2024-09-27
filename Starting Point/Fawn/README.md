@@ -1,4 +1,4 @@
-![](Fawn/banner.png)
+![](banner.png)
 
 What does the 3-letter acronym FTP stand for?
 
@@ -24,7 +24,7 @@ What is the command we can use to send an ICMP echo request to test our connecti
 ping
 ```
 
-![](Fawn/nmap.png)
+![](nmap.png)
 
 From your scans, what version is FTP running on the target?
 
