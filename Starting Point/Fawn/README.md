@@ -1,4 +1,4 @@
-![](banner.png)
+![](Fawn/banner.png)
 
 What does the 3-letter acronym FTP stand for?
 

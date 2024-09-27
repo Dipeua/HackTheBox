@@ -1,4 +1,4 @@
-![](banner.png)
+![](Dancing/banner.png)
 
 What does the 3-letter acronym SMB stand for?
 

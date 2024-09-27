@@ -1,4 +1,4 @@
-![](banner.png)
+![](Meow/banner.png)
 
 What does the acronym VM stand for?
 
