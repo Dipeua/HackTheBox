@@ -1,6 +1,6 @@
-![](banner.png)
+![](./Images/banner.png)
 
-![](nmap.png)
+![](./Images/nmap.png)
 
 What Nmap scanning switch employs the use of default scripts during a scan?
 
@@ -20,7 +20,7 @@ What FTP code is returned to us for the "Anonymous FTP login allowed" message?
 230
 ```
 
-![](ftp.png)
+![](./Images/ftp.png)
 
 After connecting to the FTP server using the ftp client, what username do we provide when prompted to log in anonymously?
 
@@ -47,9 +47,9 @@ What version of Apache HTTP Server is running on the target host?
 Apache httpd 2.4.41
 ```
 
-![](homepage.png)
+![](./Images/homepage.png)
 
-![](gobuster.png)
+![](./Images/gobuster.png)
 
 What switch can we use with Gobuster to specify we are looking for specific filetypes?
 
@@ -57,7 +57,7 @@ What switch can we use with Gobuster to specify we are looking for specific file
 -x
 ```
 
-![](burp.png)
+![](./Images/burp.png)
 
 Which PHP file can we identify with directory brute force that will provide the opportunity to authenticate to the web service?
 
@@ -66,4 +66,4 @@ login.php
 ```
 
 
-![](flag.png)
+![](./Images/flag.png)

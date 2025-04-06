@@ -1,8 +1,8 @@
-![](banner.png)
+![](./Images/banner.png)
 
-![](nmap.png)
+![](./Images/nmap.png)
 
-![](dns.png)
+![](./Images/dns.png)
 
 When visiting the web service using the IP address, what is the domain that we are being redirected to?
 
@@ -18,7 +18,7 @@ php
 ```
 
 
-![](param.png)
+![](./Images/param.png)
 
 What is the name of the URL parameter which is used to load different language versions of the webpage?
 
@@ -26,7 +26,7 @@ What is the name of the URL parameter which is used to load different language v
 page
 ```
 
-![](lfi.png)
+![](./Images/lfi.png)
 
 Which of the following values for the `page` parameter would be an example of exploiting a Local File Include (LFI) vulnerability: "french.html", "//10.10.14.6/somefile", "../../../../../../../../windows/system32/drivers/etc/hosts", "minikatz.exe"
 
@@ -47,7 +47,7 @@ What does NTLM stand for?
 New Technology Lan Manager
 ```
 
-![](rfi.png)
+![](./Images/rfi.png)
 
 Which flag do we use in the Responder utility to specify the network interface?
 
@@ -55,7 +55,7 @@ Which flag do we use in the Responder utility to specify the network interface?
 -I
 ```
 
-![](admin-hash.png)
+![](./Images/admin-hash.png)
 
 There are several tools that take a NetNTLMv2 challenge/response and try millions of passwords to see if any of them generate the same response. One such tool is often referred to as `john`, but the full name is what?.
 
@@ -63,7 +63,7 @@ There are several tools that take a NetNTLMv2 challenge/response and try million
 John The Ripper
 ```
 
-![](john.png)
+![](./Images/john.png)
 
 What is the password for the administrator user?
 
@@ -78,4 +78,4 @@ We'll use a Windows service (i.e. running on the box) to remotely access the Res
 5985
 ```
 
-![](remote-connect.png)
+![](./Images/remote-connect.png)

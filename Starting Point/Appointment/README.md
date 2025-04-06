@@ -1,4 +1,4 @@
-![](banner.png)
+![](./Images/banner.png)
 
 What does the acronym SQL stand for?
 
@@ -12,7 +12,7 @@ What is one of the most common type of SQL vulnerabilities?
 SQL injection
 ```
 
-![](owasp.png)
+![](./Images/owasp.png)
 
 What is the 2021 OWASP Top 10 classification for this vulnerability?
 
@@ -20,7 +20,7 @@ What is the 2021 OWASP Top 10 classification for this vulnerability?
 A03:2021-Injection
 ```
 
-![](nmap.png)
+![](./Images/nmap.png)
 
 What does Nmap report as the service and version that are running on port 80 of the target?
 
@@ -59,9 +59,9 @@ What single character can be used to comment out the rest of a line in MySQL?
 #
 ```
 
-![](login-page.png)
+![](./Images/login-page.png)
 
-![](end.png)
+![](./Images/end.png)
 
 If user input is not handled carefully, it could be interpreted as a comment. Use a comment to login as admin without knowing the password. What is the first word on the webpage returned?
 

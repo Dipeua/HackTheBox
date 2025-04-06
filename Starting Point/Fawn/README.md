@@ -1,4 +1,4 @@
-![](banner.png)
+![](./Images/banner.png)
 
 What does the 3-letter acronym FTP stand for?
 
@@ -24,7 +24,7 @@ What is the command we can use to send an ICMP echo request to test our connecti
 ping
 ```
 
-![](nmap.png)
+![](./Images/nmap.png)
 
 From your scans, what version is FTP running on the target?
 
@@ -38,7 +38,7 @@ From your scans, what OS type is running on the target?
 Unix
 ```
 
-![](ftp.png)
+![](./Images/ftp.png)
 
 What is the command we need to run in order to display the 'ftp' client help menu?
 

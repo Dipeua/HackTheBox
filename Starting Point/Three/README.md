@@ -1,6 +1,6 @@
-![](banner.png)
+![](./Images/banner.png)
 
-![](nmap.png)
+![](./Images/nmap.png)
 
 How many TCP ports are open?
 
@@ -26,9 +26,9 @@ Which sub-domain is discovered during further enumeration?
 s3.thetoppers.htb
 ```
 
-![](s3-web.png)
+![](./Images/s3-web.png)
 
-![](search-s3.png)
+![](./Images/search-s3.png)
 
 Which service is running on the discovered sub-domain?
 
@@ -36,7 +36,7 @@ Which service is running on the discovered sub-domain?
 Amazon S3
 ```
 
-![](awscli.png)
+![](./Images/awscli.png)
 
 Which command line utility can be used to interact with the service running on the discovered sub-domain?
 
@@ -44,9 +44,9 @@ Which command line utility can be used to interact with the service running on t
 awscli
 ```
 
-![](search-aws-cli.png)
+![](./Images/search-aws-cli.png)
 
-![](awsconfig.png)
+![](./Images/awsconfig.png)
 
 Which command is used to set up the AWS CLI installation?
 
@@ -54,7 +54,7 @@ Which command is used to set up the AWS CLI installation?
 aws configure
 ```
 
-![](list-s3.png)
+![](./Images/list-s3.png)
 
 What is the command used by the above utility to list all of the S3 buckets?
 
@@ -62,7 +62,7 @@ What is the command used by the above utility to list all of the S3 buckets?
 aws s3 ls
 ```
 
-![](list-s3-instence.png)
+![](./Images/list-s3-instence.png)
 
 This server is configured to run files written in what web scripting language?
 
@@ -70,6 +70,6 @@ This server is configured to run files written in what web scripting language?
 PHP
 ```
 
-![](upload-to-s3.png)
+![](./Images/upload-to-s3.png)
 
-![](flag.png)
+![](./Images/flag.png)

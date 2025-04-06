@@ -1,6 +1,6 @@
-![](banner.png)
+![](./Images/banner.png)
 
-![](nmap.png)
+![](./Images/nmap.png)
 
 During our scan, which port do we find serving MySQL?
 
@@ -14,7 +14,7 @@ What community-developed MySQL version is the target running?
 MariaDB
 ```
 
-![](mysql.png)
+![](./Images/mysql.png)
 
 When using the MySQL command line client, what switch do we need to use in order to specify a login username?
 
@@ -47,4 +47,4 @@ There are three databases in this MySQL instance that are common across all MySQ
 htb
 ```
 
-![](mysql-flag.png)
+![](./Images/mysql-flag.png)

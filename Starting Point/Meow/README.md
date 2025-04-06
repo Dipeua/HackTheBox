@@ -1,4 +1,4 @@
-![](banner.png)
+![](./Images/banner.png)
 
 What does the acronym VM stand for?
 
@@ -24,7 +24,7 @@ What tool do we use to test our connection to the target with an ICMP echo reque
 ping
 ```
 
-![](ping.png)
+![](./Images/ping.png)
 
 What is the name of the most common tool for finding open ports on a target?
 
@@ -32,7 +32,7 @@ What is the name of the most common tool for finding open ports on a target?
 nmap
 ```
 
-![](nmap.png)
+![](./Images/nmap.png)
 
 What service do we identify on port 23/tcp during our scans?
 
@@ -40,7 +40,7 @@ What service do we identify on port 23/tcp during our scans?
 telnet
 ```
 
-![](telnet.png)
+![](./Images/telnet.png)
 
 What username is able to log into the target over telnet with a blank password?
 

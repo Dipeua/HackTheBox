@@ -1,5 +1,5 @@
-![](banner.png)
-![](nmap.png)
+![](./Images/banner.png)
+![](./Images/nmap.png)
 
 Which TCP port is hosting a database server?
 
@@ -7,7 +7,7 @@ Which TCP port is hosting a database server?
 1433
 ```
 
-![](shares.png)
+![](./Images/shares.png)
 
 What is the name of the non-Administrative share available over SMB?
 
@@ -15,7 +15,7 @@ What is the name of the non-Administrative share available over SMB?
 backups
 ```
 
-![](smbclient.png)
+![](./Images/smbclient.png)
 
 What is the password identified in the file on the SMB share?
 
@@ -23,7 +23,7 @@ What is the password identified in the file on the SMB share?
 M3g4c0rp123
 ```
 
-![](msoptions.png)
+![](./Images/msoptions.png)
 
 What script from Impacket collection can be used in order to establish an authenticated connection to a Microsoft SQL Server?
 
@@ -37,7 +37,7 @@ What extended stored procedure of Microsoft SQL Server can be used in order to s
 xp_cmdshell
 ```
 
-![](exec.png)
+![](./Images/exec.png)
 
 What script can be used in order to search possible paths to escalate privileges on Windows hosts?
 
@@ -51,4 +51,4 @@ What file contains the administrator's password?
 ?????
 ```
 
-![](end.png)
+![](./Images/end.png)
